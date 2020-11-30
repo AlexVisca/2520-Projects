@@ -23,8 +23,7 @@ Frontend web design.
 User Testing.
 
 Project Team:
-
-Arshia Aryanfar
-Alex Visca
-Jace Vanganuru
+Arshia Aryanfar, 
+Alex Visca, 
+Jace Vanganuru, 
 Sean Santarin
