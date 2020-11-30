@@ -1,5 +1,4 @@
-#!/bin/user
-README.md
+#!/bin/user/README.md
 
 APP Description:
 This Reminder Application is a client-server application for creating, reading, updating, and deleting reminders.
